@@ -1,0 +1,10 @@
+npm init 
+npm i mongoose 
+npm i express
+routes - controllers - model - 
+code for model 
+code for controller 
+code for routes 
+npm i nanoid
+npm i shortid
+npm i ejs 
