@@ -5,9 +5,7 @@
 
 // const PORT = 8001;
 
-// connectToMongoDB("mongodb+srv://AdminUser:malik0786@mongocluster.u92cud5.mongodb.net/Cruds?retryWrites=true&w=majority&appName=MongoCluster").then(()=>{
-//     console.log("connected")
-// })
+
 
 // const urlRoute = require('./routes/url')
 // app.use(express.json());
